@@ -23,30 +23,10 @@ The Advanced Programming course focuses on deepening programming knowledge and s
 
 The repository is organized by topics:
 
-- **Java Basics/**: Foundational tasks in Java:
-  - `TreasureHunt.java`: Decodes clues in a map file to find a treasure.
-  - `RandomAccess.java`: Sorts bytes and tri-bytes in a file.
-  - `Streams.java`: Processes streams, extracts quoted text, and reads numbers.
-  - `TreasureMapDecoder.java`: Interface for decoding map clues.
-- **Python E-commerce/**: A shopping app built in Python:
-  - `store.py`: Manages items, searches, and shopping cart interactions.
-  - `shopping_cart.py`: Handles adding, removing, and totaling items.
-  - `item.py`: Represents store items.
-  - `errors.py`: Custom error classes for app logic.
-  - `main.py`: CLI interface for the app.
-  - `items.yml`: YAML file with inventory data.
-  - `store_tests.py`: Tests for the Store class.
-  - `shopping_cart_tests.py`: Tests for the ShoppingCart class.
-  - `pytest.ini`: Configuration for Pytest.
-- **SQL with Java/**: A grading system using SQL:
-  - `Smarticulous.java`: Manages database connections and user/exercise data.
-  - `User.java`: Represents system users.
-  - `Exercise.java`: Defines exercises and questions.
-  - `Submission.java`: Tracks submissions and grades.
-- **Assignments/**: Additional programming tasks (to be added).
-- **Projects/**: Larger, complex programming projects (to be added).
-- **Notes/**: Personal notes and summaries of lectures.
-- **Resources/**: Links and supplementary materials.
+- **Java Basics/**: Introduces foundational programming concepts using Java.
+- **Python E-commerce/**: Implements a simple shopping application with Python.
+- **SQL with Java/**: Demonstrates SQL integration with a grading system in Java.
+- **Assignments/**: Programming tasks (to be added).
 
 ---
 
@@ -86,7 +66,7 @@ The repository is organized by topics:
 
 - **Languages**: Java, Python
 - **Version Control**: Git
-- **IDEs**: IntelliJ IDEA, Eclipse, VS Code, PyCharm
+- **IDEs**: IntelliJ IDEA, PyCharm
 
 ---
 
@@ -101,7 +81,7 @@ The repository is organized by topics:
 
 ## 📝 License
 
-This repository is for educational purposes. All code is provided "as is." Please adhere to the course's honor code.
+This repository is for personal study and educational purposes. Do not submit this work as your own and respect your course's honor code.
 
 ---
 
